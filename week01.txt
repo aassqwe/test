@@ -1,1 +1,6 @@
 안녕하세요 반갑습니다
+ 안녕하세요 반갑습니다
+-init, status, log, add, commit
+-리눅스 명령어
+ pwd, ls, touch, cat
+2024 c++
